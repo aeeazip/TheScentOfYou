@@ -1,4 +1,4 @@
-# theScentOfYou
+# heScentOfYou
 사용자 맞춤 AI 향수 추천 서비스
 
 ### 시연 영상 링크
